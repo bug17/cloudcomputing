@@ -14,7 +14,7 @@
     	 response.sendRedirect("login.jsp");
      }
     %>
-    Welcome ${username}
+    You are Welcome ${username}
     
     <a href="video.jsp">Videos</a>
     <a href="about.jsp">About</a>
